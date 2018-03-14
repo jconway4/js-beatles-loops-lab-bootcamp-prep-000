@@ -14,6 +14,7 @@ var johnLennonFacts = function(facts) {
   
   while (countdown < facts.length) {
     finalArray.push(facts[countdown] + '!!!');
+    countdown++
   }
   
   return finalArray;
