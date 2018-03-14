@@ -20,3 +20,6 @@ var johnLennonFacts = function(facts) {
   return finalArray;
 };
 
+var iLoveTheBeatles = function(number) {
+  
+};
