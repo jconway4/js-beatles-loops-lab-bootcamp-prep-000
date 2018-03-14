@@ -21,14 +21,14 @@ var johnLennonFacts = function(facts) {
 };
 
 var iLoveTheBeatles = function(number) {
-  var FinalArray = [];
+  var finalArray = [];
   
   function maybeTrue() {
     return Math.random() >= 0.5
   }
    
   do {
-    */
+    finalArray.push('I love the beatles!');
   } while (maybeTrue());
 
 };
