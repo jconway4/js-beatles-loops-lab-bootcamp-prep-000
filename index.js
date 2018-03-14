@@ -10,6 +10,9 @@ var theBeatlesPlay = function(musicians, instruments) {
 
 var johnLennonFacts = function(facts) {
   var finalArray = [];
+  let countdown = facts.length;
   
-  while ()
+  while (countdown < facts.length) {
+    
+  }
 }
