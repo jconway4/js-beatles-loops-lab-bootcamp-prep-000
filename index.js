@@ -14,12 +14,13 @@ var johnLennonFacts = function(facts) {
   
   while (countdown < facts.length) {
     finalArray.push(facts[countdown] + '!!!');
-    countdown++
+    countdown++;
   }
   
   return finalArray;
 };
 
 var iLoveTheBeatles = function(number) {
+  var FinalArray = [];
   
 };
