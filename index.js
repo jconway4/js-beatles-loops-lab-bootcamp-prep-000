@@ -13,6 +13,8 @@ var johnLennonFacts = function(facts) {
   let countdown = facts.length;
   
   while (countdown < facts.length) {
-    
+    finalArray.push(facts[countdown] + '!!!');
   }
+  
+  return finalArray;
 }
