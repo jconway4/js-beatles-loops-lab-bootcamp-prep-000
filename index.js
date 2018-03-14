@@ -31,4 +31,5 @@ var iLoveTheBeatles = function(number) {
     finalArray.push('I love the beatles!');
   } while (maybeTrue());
 
+  return finalArray
 };
